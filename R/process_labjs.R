@@ -31,7 +31,7 @@
 #' Felix Henninger (\email{mailbox@@felixhenninger.com})
 #'
 #' Pascal J. Kieslich (\email{pascal.kieslich@@gmail.com})
-#'
+#' @export
 process_labjs <- function(
   data,
   labjs_column,
